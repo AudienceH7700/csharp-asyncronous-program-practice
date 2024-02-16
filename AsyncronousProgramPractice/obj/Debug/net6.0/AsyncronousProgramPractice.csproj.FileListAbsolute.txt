@@ -1,0 +1,14 @@
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\bin\Debug\net6.0\AsyncronousProgramPractice.exe
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\bin\Debug\net6.0\AsyncronousProgramPractice.deps.json
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\bin\Debug\net6.0\AsyncronousProgramPractice.runtimeconfig.json
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\bin\Debug\net6.0\AsyncronousProgramPractice.dll
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\bin\Debug\net6.0\AsyncronousProgramPractice.pdb
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.AssemblyInfoInputs.cache
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.AssemblyInfo.cs
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.csproj.CoreCompileInputs.cache
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.dll
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\refint\AsyncronousProgramPractice.dll
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.pdb
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\AsyncronousProgramPractice.genruntimeconfig.cache
+D:\project\AsyncronousProgramPractice\AsyncronousProgramPractice\obj\Debug\net6.0\ref\AsyncronousProgramPractice.dll
